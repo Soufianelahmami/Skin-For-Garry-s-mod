@@ -31,15 +31,15 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"demo-native-content-yandex",
-"yandex_reward":"demo-rewarded-yandex",
-"yandex_appopen":"demo-appopenad-yandex",
+"yandex_banner":"R-M-3337483-1",
+"yandex_inter":"R-M-3337483-3",
+"yandex_native":"R-M-3337483-2",
+"yandex_reward":"R-M-3337483-4",
+"yandex_appopen":"R-M-3337483-5",
 
-"detail_first_button":"first button",
-"detail_second_button":"12MB",
-"detail_text_title":"how to use title text",
+"detail_first_button":"online downoad",
+"detail_second_button":"19MB",
+"detail_text_title":"how to downoad the mods ",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
 "banner_network_choice":"yandex", 
